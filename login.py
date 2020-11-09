@@ -1,5 +1,5 @@
 # Variaveis globais para simulação de um banco de dados
-# Cuidados para não mudalalas sem querer, quando possível, defina
+# Cuidado para não mudá-las sem querer. Quando possível, defina
 # uma variavel dentro de uma função
 esta_logado = False
 email = ''
